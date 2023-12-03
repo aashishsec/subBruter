@@ -64,7 +64,7 @@ def banner():
     print("-" * 80)
 
 
-parser=argparse.ArgumentParser(description=f"{bold}{random_color} subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist list.")
+parser=argparse.ArgumentParser(description=f"{bold}{random_color} subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist.")
 
 parser.add_argument('-d','--Domain',metavar='list',type=str,required=True,help=f"[{bold}{random_color}INFO]: {bold}{random_color}domain.")
 

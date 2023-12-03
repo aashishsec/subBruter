@@ -16,6 +16,7 @@
 
 
 ```bash
+
 git clone https://github.com/aashish36/subBruteForcer.git
 
 cd dirBrute
@@ -33,12 +34,13 @@ pip install -r requirements.txt
 - Run the script using the following command: 
 
 ``` bash
+
 usage: SubBrute.py [-h] -d list -w list [-o output] [-t THREADS]
 
- subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist list.
+subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist list.
 
 options:
-  -h, --help            show this help message and exit
+  -h, --help            show this help message and exit.
   -d list, --Domain list
                         [INFO]: domain.
   -w list, --wordlist list
@@ -52,7 +54,7 @@ options:
 
 ## Tool Output
 
-
+![image](https://github.com/aashishsec/subBruteForcer/assets/65489287/28d4d2ba-08bf-4943-9e81-0110e313f2c4)
 
 ## Contributing
 

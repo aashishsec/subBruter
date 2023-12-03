@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 usage: SubBrute.py [-h] -d list -w list [-o output] [-t THREADS]
 
-subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist list.
+subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist.
 
 options:
   -h, --help            show this help message and exit.

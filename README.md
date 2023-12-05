@@ -1,4 +1,4 @@
-# subBruter
+# subBruter - Active Subdomain Enumeration Tool
 
 - subBruter is a tool designed to efficiently probe for alive subdomins from a provided wordlist.
 

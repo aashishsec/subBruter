@@ -17,9 +17,9 @@
 
 ```bash
 
-git clone https://github.com/aashish36/subBruteForcer.git
+git clone https://github.com/aashish36/subBruter.git
 
-cd dirBrute
+cd subBruter
 
 pip install -r requirements.txt
 

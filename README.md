@@ -1,6 +1,6 @@
-# subBruteForcer
+# subBruter
 
-- subBruteForcer is a tool designed to efficiently probe for alive subdomins from a provided wordlist.
+- subBruter is a tool designed to efficiently probe for alive subdomins from a provided wordlist.
 
 - The Output contains with statuscode and content length.
 
@@ -35,9 +35,9 @@ pip install -r requirements.txt
 
 ``` bash
 
-usage: SubBrute.py [-h] -d list -w list [-o output] [-t THREADS]
+usage: subBruter.py [-h] -d list -w list [-o output] [-t THREADS]
 
-subBruteForcer is a tool designed to efficiently probe for alive subdomains from a provided wordlist.
+subBruter is a tool designed to efficiently probe for alive subdomains from a provided wordlist.
 
 options:
   -h, --help            show this help message and exit.

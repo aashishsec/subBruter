@@ -1,12 +1,20 @@
 # subBruter - Active Subdomain Enumeration Tool
 
-- subBruter is a tool designed to efficiently probe for alive subdomins from a provided wordlist.
-
-- The Output contains with statuscode and content length.
-
-- This subBruteForcer tool also had threading which will speed up the process.
+- subBruter is a Python-based tool designed to efficiently probe for alive subdomains using a provided wordlist.
+  
+- It utilizes multithreading to accelerate the brute-force process, making it faster and more efficient.
+  
+- The tool supports customizable options such as the target domain, wordlist, output file, and the number of threads.
   
 -  Works in all platforms.
+
+## Features
+
+- Multithreading: Utilizes the concurrent.futures module to perform subdomain brute-forcing concurrently, enhancing speed.
+  
+- Customizable: Allows users to specify the target domain, wordlist, output file, and the number of threads via command line arguments.
+  
+- User-Agent Rotation: Randomly selects a user-agent from a predefined list to simulate different browsers.
 
 ## Installation
 

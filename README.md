@@ -1,5 +1,7 @@
 # subBruter - Active Subdomain Enumeration Tool
 
+[Tool Link](https://github.com/aashishsec/subBruter/)
+
 - subBruter is a Python-based tool designed to efficiently probe for alive subdomains using a provided wordlist.
   
 - It utilizes multithreading to accelerate the brute-force process, making it faster and more efficient.

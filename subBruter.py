@@ -70,7 +70,7 @@ def banner():
       
         Author   : Aashish💕💕  
                                               
-        Github   : https://github.com/aashish36
+        Github   : https://github.com/aashishsec
                     
       ''')
     print("-" * 80)

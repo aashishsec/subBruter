@@ -1,6 +1,8 @@
 # subBruter - Active Subdomain Enumeration Tool
 
 [Tool Link](https://github.com/aashishsec/subBruter/)
+---
+![GitHub last commit](https://img.shields.io/github/last-commit/aashishsec/subBruter) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aashishsec/subBruter) [![GitHub license](https://img.shields.io/github/license/aashishsec/subBruter)](https://github.com/aashishsec/subBruter/blob/main/LICENSE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aashishsec/)
 
 - subBruter is a Python-based tool designed to efficiently probe for alive subdomains using a provided wordlist.
   

@@ -149,7 +149,7 @@ parser.add_argument('-w','--wordlist',metavar='wordlist',help=f"[{bold}{random_c
 
 parser.add_argument('-o','--output',metavar='output',type=str,default="subBruteForcer.txt",required=False,help=f"[{bold}{random_color}INFO]: {bold}{random_color}File to save our output.")
 
-parser.add_argument("-t", "--threads", help=f"[{bold}INFO{random_color}]: {random_color}{random_color}Threading level to make fast process.", type=int, default=500)
+parser.add_argument("-t", "--threads", help=f"[{bold}INFO{random_color}]: {random_color}{random_color}Threading level to make fast process.", type=int, default=50)
 
 args=parser.parse_args()
 
